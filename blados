@@ -1,0 +1,23 @@
+IBM Flex Node Blade 01
+IBM Flex Node Blade 02
+IBM Flex Node Blade 03
+Training_LAB_38
+
+
+Amnex PowerEdge R620
+As-PI| PowerEdge R620
+Amnex DC2-ESX04 | PowerEdge R620
+
+DCXen- | Dell R620
+Amnex New |PowerEdge R620
+
+
+DCXen-r710	Antivirus_8	172.16.1.8	103.27.120.8	Internal
+BladeE	Zimbra New_1.9	172.16.1.9	103.27.120.9	Internal
+DCXen-r710	Rosix_Tech_10	172.16.1.10	103.27.120.10	Customer
+BladeE	Nissan_Syntex_12	172.16.1.12	103.27.120.12	Customer
+XCPXEN-HOST108	AEROEngin_13	172.16.1.13	103.27.120.13	Customer
+BladeE	Artex_14	172.16.1.14	103.27.120.14	Customer
+DCXen-r710	Monitoring - NMS IT	172.16.1.15	103.27.120.15	Internal
+DCXen-r710	Nagios	172.16.1.16	103.27.120.16	Internal
+
